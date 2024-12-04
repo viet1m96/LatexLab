@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2024.12.2)  3 DEC 2024 15:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2024.12.3)  3 DEC 2024 16:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**/home/cun/Documents/LatexLab/texs/Main
-(/home/cun/Documents/LatexLab/texs/Main.tex
+**/home/cun/Documents/LatexLab/extra2/musicTime/Main
+(/home/cun/Documents/LatexLab/extra2/musicTime/Main.tex
 LaTeX2e <2020-02-02> patch level 2
 L3 programming layer <2020-02-14> (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
@@ -453,33 +453,363 @@ Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
 \extratabsurround=\skip65
 \backup@length=\skip66
 \ar@cellbox=\box95
-) (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+) (/usr/share/texlive/texmf-dist/tex/latex/musixtex/musixtex.sty (/usr/share/texlive/texmf-dist/tex/generic/musixtex/musixtex.tex
+MusiXTeX(c) 1.29 <2018-08-04>
+\n@i=\count270
+\n@ii=\count271
+\n@iii=\count272
+\n@iv=\count273
+\n@v=\count274
+\n@vi=\count275
+\n@vii=\count276
+\n@viii=\count277
+\count@=\count278
+\toks@box=\box96
+\w@rkbox=\box97
+\n@otebox=\box98
+\y@=\dimen171
+\y@i=\dimen172
+\y@ii=\dimen173
+\y@iii=\dimen174
+\y@iv=\dimen175
+\y@v=\dimen176
+\group@no=\count279
+\interinstrument=\dimen177
+\N@s=\count280
+\s@Y=\dimen178
+\lin@pos=\dimen179
+\meet@minus@n@iv=\count281
+\interbeam=\dimen180
+\b@amthick=\dimen181
+\Interligne=\dimen182
+\Internote=\dimen183
+\ch@box=\box99
+\musicsize=\count282
+\qd@skip=\dimen184
+\qn@width=\dimen185
+\wn@width=\dimen186
+\txt@ff=\skip67
+\s@indent=\skip68
+\big@spc=\skip69
+\lthick=\dimen187
+\afterruleskip=\skip70
+\staffbotmarg=\dimen188
+\stafftopmarg=\dimen189
+\line@width=\dimen190
+\interportee=\dimen191
+\noport@@=\count283
+\noinstrum@nt=\count284
+\altportee=\dimen192
+\systemheight=\dimen193
+\altplancher=\dimen194
+\instrum@in@group=\skip71
+\boxitsep=\skip72
+\barsinpi@c@=\count285
+\barno=\count286
+\startbarno=\count287
+\sign@skip=\dimen195
+\maxsign@skip=\dimen196
+\x@skip=\dimen197
+\n@skip=\dimen198
+\beforeruleskip=\skip73
+\widthtyp@=\count288
+\lastbarno=\count289
+\cut@v=\skip74
+\init@volta@pos=\skip75
+\volta@startcor=\skip76
+\volta@endcor=\skip77
+\writ@volta@box=\box100
+\barsinlin@=\count290
+\maxbarsinlin@=\count291
+\lastbarpos=\skip78
+\ut@ref=\count292
+\meterskip=\skip79
+\t@c=\toks25
+\clef@skip=\skip80
+\noteskip=\dimen199
+\transpose=\count293
+\normaltranspose=\count294
+\locx@skip=\dimen256
+\elemskip=\dimen257
+\@l@mskip=\dimen258
+\inh@alt=\count295
+\st@bot=\dimen259
+\st@top=\dimen260
+\stem@skip=\dimen261
+\s@lope=\dimen262
+\y@vi=\dimen263
+\lift@rest=\dimen264
+\accshift=\skip81
+\@icresc=\skip82
+\pdl@pos=\dimen265
+\bigwedgebox=\box101
+\@itrillei=\skip83
+\@itrilleii=\skip84
+\@itrilleiii=\skip85
+\@itrilleiv=\skip86
+\@itrillev=\skip87
+\@itrillevi=\skip88
+\tr@number=\count296
+\tr@nspose=\count297
+\o@swz=\toks26
+\o@number=\count298
+\y@vii=\dimen266
+\y@viii=\dimen267
+\y@ix=\dimen268
+\tuptxtb@x=\box102
+\notes@open=\count299
+\k@ii=\skip89
+\i@ni=\dimen269
+\b@xi=\dimen270
+\b@zi=\dimen271
+\c@xi=\dimen272
+\c@zi=\skip90
+\d@xi=\dimen273
+\d@zi=\skip91
+\e@xi=\dimen274
+\e@zi=\skip92
+\b@pi=\count300
+\b@ni=\count301
+\n@pi=\count302
+\a@si=\count303
+\o@si=\count304
+\a@ci=\toks27
+\o@ci=\toks28
+\m@ti=\toks29
+\k@iii=\skip93
+\i@nii=\dimen275
+\b@xii=\dimen276
+\b@zii=\dimen277
+\c@xii=\dimen278
+\c@zii=\skip94
+\d@xii=\dimen279
+\d@zii=\skip95
+\e@xii=\dimen280
+\e@zii=\skip96
+\b@pii=\count305
+\b@nii=\count306
+\n@pii=\count307
+\a@sii=\count308
+\o@sii=\count309
+\a@cii=\toks30
+\o@cii=\toks31
+\m@tii=\toks32
+\k@iiii=\skip97
+\i@niii=\dimen281
+\b@xiii=\dimen282
+\b@ziii=\dimen283
+\c@xiii=\dimen284
+\c@ziii=\skip98
+\d@xiii=\dimen285
+\d@ziii=\skip99
+\e@xiii=\dimen286
+\e@ziii=\skip100
+\b@piii=\count310
+\b@niii=\count311
+\n@piii=\count312
+\a@siii=\count313
+\o@siii=\count314
+\a@ciii=\toks33
+\o@ciii=\toks34
+\m@tiii=\toks35
+\k@iiv=\skip101
+\i@niv=\dimen287
+\b@xiv=\dimen288
+\b@ziv=\dimen289
+\c@xiv=\dimen290
+\c@ziv=\skip102
+\d@xiv=\dimen291
+\d@ziv=\skip103
+\e@xiv=\dimen292
+\e@ziv=\skip104
+\b@piv=\count315
+\b@niv=\count316
+\n@piv=\count317
+\a@siv=\count318
+\o@siv=\count319
+\a@civ=\toks36
+\o@civ=\toks37
+\m@tiv=\toks38
+\k@iv=\skip105
+\i@nv=\dimen293
+\b@xv=\dimen294
+\b@zv=\dimen295
+\c@xv=\dimen296
+\c@zv=\skip106
+\d@xv=\dimen297
+\d@zv=\skip107
+\e@xv=\dimen298
+\e@zv=\skip108
+\b@pv=\count320
+\b@nv=\count321
+\n@pv=\count322
+\a@sv=\count323
+\o@sv=\count324
+\a@cv=\toks39
+\o@cv=\toks40
+\m@tv=\toks41
+\k@ivi=\skip109
+\i@nvi=\dimen299
+\b@xvi=\dimen300
+\b@zvi=\dimen301
+\c@xvi=\dimen302
+\c@zvi=\skip110
+\d@xvi=\dimen303
+\d@zvi=\skip111
+\e@xvi=\dimen304
+\e@zvi=\skip112
+\b@pvi=\count325
+\b@nvi=\count326
+\n@pvi=\count327
+\a@svi=\count328
+\o@svi=\count329
+\a@cvi=\toks42
+\o@cvi=\toks43
+\m@tvi=\toks44
+maxinstruments=6
+\f@xi=\dimen305
+\f@zi=\skip113
+\f@xii=\dimen306
+\f@zii=\skip114
+\f@xiii=\dimen307
+\f@ziii=\skip115
+\f@xiv=\dimen308
+\f@ziv=\skip116
+\f@xv=\dimen309
+\f@zv=\skip117
+\f@xvi=\dimen310
+\f@zvi=\skip118
+ max128beams=6
+\g@bi=\skip119
+\g@hi=\skip120
+\g@bii=\skip121
+\g@hii=\skip122
+\g@biii=\skip123
+\g@hiii=\skip124
+ maxgroups=3
+\s@xi=\dimen311
+\s@si=\toks45
+\s@Yi=\dimen312
+\s@ai=\skip125
+\s@yi=\count330
+\s@Ni=\count331
+\s@zi=\count332
+\s@di=\toks46
+\s@xii=\dimen313
+\s@sii=\toks47
+\s@Yii=\dimen314
+\s@aii=\skip126
+\s@yii=\count333
+\s@Nii=\count334
+\s@zii=\count335
+\s@dii=\toks48
+\s@xiii=\dimen315
+\s@siii=\toks49
+\s@Yiii=\dimen316
+\s@aiii=\skip127
+\s@yiii=\count336
+\s@Niii=\count337
+\s@ziii=\count338
+\s@diii=\toks50
+\s@xiv=\dimen317
+\s@siv=\toks51
+\s@Yiv=\dimen318
+\s@aiv=\skip128
+\s@yiv=\count339
+\s@Niv=\count340
+\s@ziv=\count341
+\s@div=\toks52
+\s@xv=\dimen319
+\s@sv=\toks53
+\s@Yv=\dimen320
+\s@av=\skip129
+\s@yv=\count342
+\s@Nv=\count343
+\s@zv=\count344
+\s@dv=\toks54
+\s@xvi=\dimen321
+\s@svi=\toks55
+\s@Yvi=\dimen322
+\s@avi=\skip130
+\s@yvi=\count345
+\s@Nvi=\count346
+\s@zvi=\count347
+\s@dvi=\toks56
+ maxslurs=6
+\tr@xi=\skip131
+\tr@swi=\toks57
+\tr@yi=\skip132
+\tr@xii=\skip133
+\tr@swii=\toks58
+\tr@yii=\skip134
+\tr@xiii=\skip135
+\tr@swiii=\toks59
+\tr@yiii=\skip136
+\tr@xiv=\skip137
+\tr@swiv=\toks60
+\tr@yiv=\skip138
+\tr@xv=\skip139
+\tr@swv=\toks61
+\tr@yv=\skip140
+\tr@xvi=\skip141
+\tr@swvi=\toks62
+\tr@yvi=\skip142
+ maxtrills=6
+\o@xi=\skip143
+\o@yi=\skip144
+\o@swi=\toks63
+\o@xii=\skip145
+\o@yii=\skip146
+\o@swii=\toks64
+\o@xiii=\skip147
+\o@yiii=\skip148
+\o@swiii=\toks65
+\o@xiv=\skip149
+\o@yiv=\skip150
+\o@swiv=\toks66
+\o@xv=\skip151
+\o@yv=\skip152
+\o@swv=\toks67
+\o@xvi=\skip153
+\o@yvi=\skip154
+\o@swvi=\toks68
+ maxoctlines=6
+\outmux=\write3
+\mulooseness=\count348
+\linegoal=\count349
+\l@eftrightbox=\box103
+\stringraise=\count350
+\inmux=\read3
+) (/usr/share/texlive/texmf-dist/tex/latex/musixtex/musixltx.tex
+MusiXLaTeX T.125 <8 April 2017>
+)) (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count270
-\l__pdf_internal_box=\box96
-) (./Main.aux
-LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 4.
- (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmr.fd
-File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-))
+\l__kernel_color_stack_int=\count351
+\l__pdf_internal_box=\box104
+)
+No file Main.aux.
 \openout1 = `Main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 22.
+LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 22.
+(/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmr.fd
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
+LaTeX Font Info:    ... okay on input line 22.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -517,76 +847,41 @@ LaTeX Font Info:    ... okay on input line 21.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count271
-\scratchdimen=\dimen171
-\scratchbox=\box97
-\nofMPsegments=\count272
-\nofMParguments=\count273
-\everyMPshowfont=\toks25
-\MPscratchCnt=\count274
-\MPscratchDim=\dimen172
-\MPnumerator=\count275
-\makeMPintoPDFobject=\count276
-\everyMPtoPDFconversion=\toks26
+\scratchcounter=\count352
+\scratchdimen=\dimen323
+\scratchbox=\box105
+\nofMPsegments=\count353
+\nofMParguments=\count354
+\everyMPshowfont=\toks69
+\MPscratchCnt=\count355
+\MPscratchDim=\dimen324
+\MPnumerator=\count356
+\makeMPintoPDFobject=\count357
+\everyMPtoPDFconversion=\toks70
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
-)) (./title.tex)
+))
+\openout3 = `Main.mx1'.
 
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
-Make it at least 14.49998pt.
-We now make it that large for the rest of the document.
-This may cause the page layout to be inconsistent, however.
+ (./music.tex bar 1) [1
 
-[1
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./page1.tex
-LaTeX Font Info:    Trying to load font information for U+msa on input line 19.
- (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 19.
- (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-</home/cun/Documents/LatexLab/photos/photo_2024-12-03_02-54-34.jpg, id=9, 285.065pt x 179.67125pt>
-File: /home/cun/Documents/LatexLab/photos/photo_2024-12-03_02-54-34.jpg Graphic file (type jpg)
-<use /home/cun/Documents/LatexLab/photos/photo_2024-12-03_02-54-34.jpg>
-Package pdftex.def Info: /home/cun/Documents/LatexLab/photos/photo_2024-12-03_02-54-34.jpg  used on input line 26.
-(pdftex.def)             Requested size: 285.0643pt x 179.67079pt.
-
-Overfull \hbox (19.7631pt too wide) in paragraph at lines 26--27
- [][]
- []
-
-
-Overfull \vbox (7.48209pt too high) has occurred while \output is active []
-
-LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 78.
- (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
-File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-) [2 </home/cun/Documents/LatexLab/photos/photo_2024-12-03_02-54-34.jpg>]) (./page2.tex
-</home/cun/Documents/LatexLab/photos/photo_2024-12-03_02-54-18.jpg, id=24, 167.62625pt x 816.04875pt>
-File: /home/cun/Documents/LatexLab/photos/photo_2024-12-03_02-54-18.jpg Graphic file (type jpg)
-<use /home/cun/Documents/LatexLab/photos/photo_2024-12-03_02-54-18.jpg>
-Package pdftex.def Info: /home/cun/Documents/LatexLab/photos/photo_2024-12-03_02-54-18.jpg  used on input line 18.
-(pdftex.def)             Requested size: 128.0367pt x 455.24092pt.
-) [3 </home/cun/Documents/LatexLab/photos/photo_2024-12-03_02-54-18.jpg>] (./Main.aux) ) 
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./Main.aux) ) 
 Here is how much of TeX's memory you used:
- 4717 strings out of 482657
- 61257 string characters out of 5957838
- 338590 words of memory out of 5000000
- 19667 multiletter control sequences out of 15000+600000
- 543880 words of font info for 51 fonts, out of 8000000 for 9000
- 430 hyphenation exceptions out of 8191
- 33i,12n,45p,279b,312s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/cun/.texlive2019/texmf-var/fonts/pk/ljfour/lh/lh-t2a/lati1200.600pk> </home/cun/.texlive2019/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm0800.600pk> </home/cun/.texlive2019/texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx2074.600pk> </home/cun/.texlive2019/texmf-var/fonts/pk/ljfour/lh/lh-t2a/latt1200.600pk> </home/cun/.texlive2019/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1200.600pk> </home/cun/.texlive2019/texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1200.600pk> </home/cun/.texlive2019/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1728.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on Main.pdf (3 pages, 151599 bytes).
+ 6630 strings out of 481239
+ 74160 string characters out of 5920377
+ 338862 words of memory out of 5000000
+ 21764 multiletter control sequences out of 15000+600000
+ 603326 words of font info for 169 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 30i,4n,45p,281b,223s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/musixtex-fonts/musix20.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/musixtex-fonts/musixspx.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1200.pfb>
+Output written on Main.pdf (1 page, 41771 bytes).
 PDF statistics:
- 229 PDF objects out of 1000 (max. 8388607)
- 57 compressed objects within 1 object stream
+ 29 PDF objects out of 1000 (max. 8388607)
+ 20 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,0 +1,79 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[russian]{babel}
+\usepackage[a2paper,landscape,margin=1in]{geometry}
+\usepackage{xcolor}
+\usepackage{tikz}
+
+
+\begin{document}
+
+\begin{center}
+\begin{tikzpicture}
+
+
+\tikzset{
+    cell/.style={
+        draw, minimum width=3cm, minimum height=1cm, align=center, font=\small
+    },
+    header/.style={
+        cell, fill=gray!30
+    },
+    period/.style={
+        cell, fill=blue!10
+    },
+    row/.style={
+        cell, fill=green!10
+    },
+    element/.style={
+        cell, fill=yellow!30
+    }
+}
+
+
+\node[header, minimum width = 2cm, minimum height = 2cm] at (-40, 18) {\textbf{периоды}};
+\node[header, minimum width = 1.5cm, minimum height = 2cm] at (-38.25, 18) {\textbf{ряды}};
+
+\node[period, minimum width = 2cm, minimum height = 2.5cm] at (-40, 15.75) {1};
+\node[period, minimum width = 2cm, minimum height = 2.5cm] at (-40, 13.25) {2};
+\node[period, minimum width = 2cm, minimum height = 2.5cm] at (-40, 10.75) {3};
+\node[period, minimum width = 2cm, minimum height = 5cm] at (-40, 7) {4};
+\node[period, minimum width = 2cm, minimum height = 5cm] at (-40, 2) {5};
+\node[period, minimum width = 2cm, minimum height = 5cm] at (-40, -3) {6};
+\node[period, minimum width = 2cm, minimum height = 2.5cm] at (-40, -6.75) {7};
+
+
+\node[row, minimum width = 1.5cm, minimum height = 2.5cm] at (-38.25, 15.75) {1};
+\node[row, minimum width = 1.5cm, minimum height = 2.5cm] at (-38.25, 13.25) {2};
+\node[row, minimum width = 1.5cm, minimum height = 2.5cm] at (-38.25, 10.75) {3};
+\node[row, minimum width = 1.5cm, minimum height = 2.5cm] at (-38.25, 8.25) {4};
+\node[row, minimum width = 1.5cm, minimum height = 2.5cm] at (-38.25, 5.75) {5};
+\node[row, minimum width = 1.5cm, minimum height = 2.5cm] at (-38.25, 3.25) {6};
+\node[row, minimum width = 1.5cm, minimum height = 2.5cm] at (-38.25, 0.75) {7};
+\node[row, minimum width = 1.5cm, minimum height = 2.5cm] at (-38.25, -1.75) {8};
+\node[row, minimum width = 1.5cm, minimum height = 2.5cm] at (-38.25, -4.25) {9};
+\node[row, minimum width = 1.5cm, minimum height = 2.5cm] at (-38.25, -6.75) {10};
+
+
+
+\node[header, minimum width = 30cm, minimum height = 1cm] at (-22.5, 18.5) {\textbf{ГРУППЫ ЭЛЕМЕНТОВ}};
+\node[header, fill = white, minimum width = 18cm, minimum height = 2.5cm] at (-25.5, 15.75) {\textbf{ПЕРИОДИЧЕСКАЯ СИСТЕМА ХИМИЧЕСКИХ ЭЛЕМЕНТОВ Д.И.МЕНДЕЛЕЕВА}};
+\node[header, fill = white, minimum width = 6cm, minimum height = 7.5cm] at (-10.5, 13.25) {};
+\node[header, fill = white, minimum width = 6cm, minimum height = 2.5cm] at (-10.5, 5.75) {};
+\node[header, fill = white, minimum width = 6cm, minimum height = 2.5cm] at (-10.5, 0.75) {};
+\node[header, fill = white, minimum width = 6cm, minimum height = 2.5cm] at (-10.5, -4.25) {};
+\node[header] at (-36, 17.5) {\textbf{I}};
+\node[header] at (-33, 17.5) {\textbf{II}};
+\node[header] at (-30, 17.5) {\textbf{III}};
+\node[header] at (-27, 17.5) {\textbf{IV}};
+\node[header] at (-24, 17.5) {\textbf{V}};
+\node[header] at (-21, 17.5) {\textbf{VI}};
+\node[header] at (-18, 17.5) {\textbf{VII}};
+\node[header, minimum width = 9cm] at (-12, 17.5) {\textbf{VIII}};
+
+\input{rows.tex}
+
+\end{tikzpicture}
+\end{center}
+
+\end{document}
