@@ -1,26 +1,46 @@
-\documentclass[a4paper,12pt]{article}
+\documentclass[12pt]{article}
+\usepackage[a4paper,margin=2cm]{geometry}
 \usepackage[utf8]{inputenc}
-\usepackage[russian]{babel}
-\usepackage{changepage}
-\usepackage{amsmath}
-\usepackage{amssymb}      
-\usepackage{geometry}
-\usepackage{multicol}
-\usepackage{fancyhdr}
-\usepackage{titlesec}
-\usepackage{graphicx}
-\usepackage{array}
 \usepackage{musixtex}
-\geometry{top=1.3cm, left = 1cm, right = 1cm}
 
-\setlength{\headheight}{12pt}
-\setlength{\columnsep}{10pt}
-\setlength{\parindent}{0pt}
-
-
-
+\geometry{top=5cm}
 \begin{document}
 
-\input{music.tex}
+\begin{center}
+    {\textbf {DER ER ET YNDIGT LAND}}
+\end{center}
+\raggedleft
+\textit{Hans Ernst Kryer}
+
+\begin{music}
+    \parindent10mm
+    
+    \setstaffs1{1}
+    \generalsignature{2}
+    \generalmeter{\meterC}
+    
+    \startextract
+
+    \Notes\cu d\en \bar
+    \Notes\qup g\cu h\qu f\qu d\en \bar
+    \Notes\hl i\qp\ds\cu d\en \bar
+    \Notes\qlp k\cl k\ql j\ql i\en \bar
+    \Notes\ql i\qu h\qp\qu h\en \bar 
+    \Notes\qup c\cu c\qu d\qu e\en
+    \endextract
+    
+\end{music}
+
+\begin{music}
+    \parindent10mm
+    
+    \setstaffs1{1}
+    \generalsignature{2}
+    
+    \startextract
+    \Notes\qu f\sh g\qu g\qu h\ql i\en\bar
+    \Notes\hu h\sh g\hu g\en
+    \endextract
+\end{music}
 
 \end{document}

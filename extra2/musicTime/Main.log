@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2024.12.3)  3 DEC 2024 16:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2024.12.3)  5 DEC 2024 12:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -21,795 +21,382 @@ File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen134
-) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
-Package: inputenc 2018/08/11 v1.3c Input encoding file
-\inpenc@prehook=\toks14
-\inpenc@posthook=\toks15
-) (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2020/02/14 3.40 The Babel package
- (/usr/share/texlive/texmf-dist/tex/generic/babel/switch.def
-File: switch.def 2020/02/14 3.40 Babel switching mechanism
-) (/usr/share/texlive/texmf-dist/tex/generic/babel-russian/russianb.ldf
-Language: russian 2017/08/12 1.3j Russian support for the Babel system
- (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
-File: babel.def 2020/02/14 3.40 Babel common definitions
-\babel@savecnt=\count175
-\U@D=\dimen135
- (/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
-\bbl@readstream=\read2
-\bbl@dirlevel=\count176
-)
-
-Package babel Warning: No Cyrillic font encoding has been loaded so far.
-(babel)                A font encoding should be declared before babel.
-(babel)                Default `T2A' encoding will be loaded  on input line 74.
-
-(/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2aenc.def
-File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
-Now handling font encoding T2A ...
-... processing UTF-8 mapping file for font encoding T2A
- (/usr/share/texlive/texmf-dist/tex/latex/base/t2aenc.dfu
-File: t2aenc.dfu 2019/11/14 v1.2k UTF-8 support for inputenc
-   defining Unicode char U+00A4 (decimal 164)
-   defining Unicode char U+00A7 (decimal 167)
-   defining Unicode char U+00AB (decimal 171)
-   defining Unicode char U+00BB (decimal 187)
-   defining Unicode char U+0131 (decimal 305)
-   defining Unicode char U+0237 (decimal 567)
-   defining Unicode char U+0400 (decimal 1024)
-   defining Unicode char U+0401 (decimal 1025)
-   defining Unicode char U+0402 (decimal 1026)
-   defining Unicode char U+0403 (decimal 1027)
-   defining Unicode char U+0404 (decimal 1028)
-   defining Unicode char U+0405 (decimal 1029)
-   defining Unicode char U+0406 (decimal 1030)
-   defining Unicode char U+0407 (decimal 1031)
-   defining Unicode char U+0408 (decimal 1032)
-   defining Unicode char U+0409 (decimal 1033)
-   defining Unicode char U+040A (decimal 1034)
-   defining Unicode char U+040B (decimal 1035)
-   defining Unicode char U+040C (decimal 1036)
-   defining Unicode char U+040D (decimal 1037)
-   defining Unicode char U+040E (decimal 1038)
-   defining Unicode char U+040F (decimal 1039)
-   defining Unicode char U+0410 (decimal 1040)
-   defining Unicode char U+0411 (decimal 1041)
-   defining Unicode char U+0412 (decimal 1042)
-   defining Unicode char U+0413 (decimal 1043)
-   defining Unicode char U+0414 (decimal 1044)
-   defining Unicode char U+0415 (decimal 1045)
-   defining Unicode char U+0416 (decimal 1046)
-   defining Unicode char U+0417 (decimal 1047)
-   defining Unicode char U+0418 (decimal 1048)
-   defining Unicode char U+0419 (decimal 1049)
-   defining Unicode char U+041A (decimal 1050)
-   defining Unicode char U+041B (decimal 1051)
-   defining Unicode char U+041C (decimal 1052)
-   defining Unicode char U+041D (decimal 1053)
-   defining Unicode char U+041E (decimal 1054)
-   defining Unicode char U+041F (decimal 1055)
-   defining Unicode char U+0420 (decimal 1056)
-   defining Unicode char U+0421 (decimal 1057)
-   defining Unicode char U+0422 (decimal 1058)
-   defining Unicode char U+0423 (decimal 1059)
-   defining Unicode char U+0424 (decimal 1060)
-   defining Unicode char U+0425 (decimal 1061)
-   defining Unicode char U+0426 (decimal 1062)
-   defining Unicode char U+0427 (decimal 1063)
-   defining Unicode char U+0428 (decimal 1064)
-   defining Unicode char U+0429 (decimal 1065)
-   defining Unicode char U+042A (decimal 1066)
-   defining Unicode char U+042B (decimal 1067)
-   defining Unicode char U+042C (decimal 1068)
-   defining Unicode char U+042D (decimal 1069)
-   defining Unicode char U+042E (decimal 1070)
-   defining Unicode char U+042F (decimal 1071)
-   defining Unicode char U+0430 (decimal 1072)
-   defining Unicode char U+0431 (decimal 1073)
-   defining Unicode char U+0432 (decimal 1074)
-   defining Unicode char U+0433 (decimal 1075)
-   defining Unicode char U+0434 (decimal 1076)
-   defining Unicode char U+0435 (decimal 1077)
-   defining Unicode char U+0436 (decimal 1078)
-   defining Unicode char U+0437 (decimal 1079)
-   defining Unicode char U+0438 (decimal 1080)
-   defining Unicode char U+0439 (decimal 1081)
-   defining Unicode char U+043A (decimal 1082)
-   defining Unicode char U+043B (decimal 1083)
-   defining Unicode char U+043C (decimal 1084)
-   defining Unicode char U+043D (decimal 1085)
-   defining Unicode char U+043E (decimal 1086)
-   defining Unicode char U+043F (decimal 1087)
-   defining Unicode char U+0440 (decimal 1088)
-   defining Unicode char U+0441 (decimal 1089)
-   defining Unicode char U+0442 (decimal 1090)
-   defining Unicode char U+0443 (decimal 1091)
-   defining Unicode char U+0444 (decimal 1092)
-   defining Unicode char U+0445 (decimal 1093)
-   defining Unicode char U+0446 (decimal 1094)
-   defining Unicode char U+0447 (decimal 1095)
-   defining Unicode char U+0448 (decimal 1096)
-   defining Unicode char U+0449 (decimal 1097)
-   defining Unicode char U+044A (decimal 1098)
-   defining Unicode char U+044B (decimal 1099)
-   defining Unicode char U+044C (decimal 1100)
-   defining Unicode char U+044D (decimal 1101)
-   defining Unicode char U+044E (decimal 1102)
-   defining Unicode char U+044F (decimal 1103)
-   defining Unicode char U+0450 (decimal 1104)
-   defining Unicode char U+0451 (decimal 1105)
-   defining Unicode char U+0452 (decimal 1106)
-   defining Unicode char U+0453 (decimal 1107)
-   defining Unicode char U+0454 (decimal 1108)
-   defining Unicode char U+0455 (decimal 1109)
-   defining Unicode char U+0456 (decimal 1110)
-   defining Unicode char U+0457 (decimal 1111)
-   defining Unicode char U+0458 (decimal 1112)
-   defining Unicode char U+0459 (decimal 1113)
-   defining Unicode char U+045A (decimal 1114)
-   defining Unicode char U+045B (decimal 1115)
-   defining Unicode char U+045C (decimal 1116)
-   defining Unicode char U+045D (decimal 1117)
-   defining Unicode char U+045E (decimal 1118)
-   defining Unicode char U+045F (decimal 1119)
-   defining Unicode char U+0490 (decimal 1168)
-   defining Unicode char U+0491 (decimal 1169)
-   defining Unicode char U+0492 (decimal 1170)
-   defining Unicode char U+0493 (decimal 1171)
-   defining Unicode char U+0496 (decimal 1174)
-   defining Unicode char U+0497 (decimal 1175)
-   defining Unicode char U+0498 (decimal 1176)
-   defining Unicode char U+0499 (decimal 1177)
-   defining Unicode char U+049A (decimal 1178)
-   defining Unicode char U+049B (decimal 1179)
-   defining Unicode char U+049C (decimal 1180)
-   defining Unicode char U+049D (decimal 1181)
-   defining Unicode char U+04A0 (decimal 1184)
-   defining Unicode char U+04A1 (decimal 1185)
-   defining Unicode char U+04A2 (decimal 1186)
-   defining Unicode char U+04A3 (decimal 1187)
-   defining Unicode char U+04A4 (decimal 1188)
-   defining Unicode char U+04A5 (decimal 1189)
-   defining Unicode char U+04AA (decimal 1194)
-   defining Unicode char U+04AB (decimal 1195)
-   defining Unicode char U+04AE (decimal 1198)
-   defining Unicode char U+04AF (decimal 1199)
-   defining Unicode char U+04B0 (decimal 1200)
-   defining Unicode char U+04B1 (decimal 1201)
-   defining Unicode char U+04B2 (decimal 1202)
-   defining Unicode char U+04B3 (decimal 1203)
-   defining Unicode char U+04B6 (decimal 1206)
-   defining Unicode char U+04B7 (decimal 1207)
-   defining Unicode char U+04B8 (decimal 1208)
-   defining Unicode char U+04B9 (decimal 1209)
-   defining Unicode char U+04BA (decimal 1210)
-   defining Unicode char U+04BB (decimal 1211)
-   defining Unicode char U+04C0 (decimal 1216)
-   defining Unicode char U+04C1 (decimal 1217)
-   defining Unicode char U+04C2 (decimal 1218)
-   defining Unicode char U+04D0 (decimal 1232)
-   defining Unicode char U+04D1 (decimal 1233)
-   defining Unicode char U+04D2 (decimal 1234)
-   defining Unicode char U+04D3 (decimal 1235)
-   defining Unicode char U+04D4 (decimal 1236)
-   defining Unicode char U+04D5 (decimal 1237)
-   defining Unicode char U+04D6 (decimal 1238)
-   defining Unicode char U+04D7 (decimal 1239)
-   defining Unicode char U+04D8 (decimal 1240)
-   defining Unicode char U+04D9 (decimal 1241)
-   defining Unicode char U+04DA (decimal 1242)
-   defining Unicode char U+04DB (decimal 1243)
-   defining Unicode char U+04DC (decimal 1244)
-   defining Unicode char U+04DD (decimal 1245)
-   defining Unicode char U+04DE (decimal 1246)
-   defining Unicode char U+04DF (decimal 1247)
-   defining Unicode char U+04E2 (decimal 1250)
-   defining Unicode char U+04E3 (decimal 1251)
-   defining Unicode char U+04E4 (decimal 1252)
-   defining Unicode char U+04E5 (decimal 1253)
-   defining Unicode char U+04E6 (decimal 1254)
-   defining Unicode char U+04E7 (decimal 1255)
-   defining Unicode char U+04E8 (decimal 1256)
-   defining Unicode char U+04E9 (decimal 1257)
-   defining Unicode char U+04EC (decimal 1260)
-   defining Unicode char U+04ED (decimal 1261)
-   defining Unicode char U+04EE (decimal 1262)
-   defining Unicode char U+04EF (decimal 1263)
-   defining Unicode char U+04F0 (decimal 1264)
-   defining Unicode char U+04F1 (decimal 1265)
-   defining Unicode char U+04F2 (decimal 1266)
-   defining Unicode char U+04F3 (decimal 1267)
-   defining Unicode char U+04F4 (decimal 1268)
-   defining Unicode char U+04F5 (decimal 1269)
-   defining Unicode char U+04F8 (decimal 1272)
-   defining Unicode char U+04F9 (decimal 1273)
-   defining Unicode char U+200C (decimal 8204)
-   defining Unicode char U+2013 (decimal 8211)
-   defining Unicode char U+2014 (decimal 8212)
-   defining Unicode char U+2018 (decimal 8216)
-   defining Unicode char U+2019 (decimal 8217)
-   defining Unicode char U+201C (decimal 8220)
-   defining Unicode char U+201D (decimal 8221)
-   defining Unicode char U+201E (decimal 8222)
-   defining Unicode char U+2030 (decimal 8240)
-   defining Unicode char U+2031 (decimal 8241)
-   defining Unicode char U+2116 (decimal 8470)
-   defining Unicode char U+2329 (decimal 9001)
-   defining Unicode char U+232A (decimal 9002)
-   defining Unicode char U+2423 (decimal 9251)
-   defining Unicode char U+27E8 (decimal 10216)
-   defining Unicode char U+27E9 (decimal 10217)
-   defining Unicode char U+FB00 (decimal 64256)
-   defining Unicode char U+FB01 (decimal 64257)
-   defining Unicode char U+FB02 (decimal 64258)
-   defining Unicode char U+FB03 (decimal 64259)
-   defining Unicode char U+FB04 (decimal 64260)
-   defining Unicode char U+FB05 (decimal 64261)
-   defining Unicode char U+FB06 (decimal 64262)
-))
-Package babel Info: Making " an active character on input line 120.
-Package babel Info: Default for \cyrdash is provided on input line 157.
-)) (/usr/share/texlive/texmf-dist/tex/latex/changepage/changepage.sty
-Package: changepage 2009/10/20 v1.0c check page and change page layout
-\c@cp@cntr=\count177
-\cp@tempcnt=\count178
-) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2020/01/20 v2.17e AMS math features
-\@mathmargin=\skip49
-
-For additional information on amsmath, use the `?' option.
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
-Package: amstext 2000/06/29 v2.01 AMS text
- (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
-File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks16
-\ex@=\dimen136
-)) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
-Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen137
-) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
-Package: amsopn 2016/03/08 v2.02 operator names
-)
-\inf@bad=\count179
-LaTeX Info: Redefining \frac on input line 227.
-\uproot@=\count180
-\leftroot@=\count181
-LaTeX Info: Redefining \overline on input line 389.
-\classnum@=\count182
-\DOTSCASE@=\count183
-LaTeX Info: Redefining \ldots on input line 486.
-LaTeX Info: Redefining \dots on input line 489.
-LaTeX Info: Redefining \cdots on input line 610.
-\Mathstrutbox@=\box45
-\strutbox@=\box46
-\big@size=\dimen138
-LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
-\macc@depth=\count184
-\c@MaxMatrixCols=\count185
-\dotsspace@=\muskip16
-\c@parentequation=\count186
-\dspbrk@lvl=\count187
-\tag@help=\toks17
-\row@=\count188
-\column@=\count189
-\maxfields@=\count190
-\andhelp@=\toks18
-\eqnshift@=\dimen139
-\alignsep@=\dimen140
-\tagshift@=\dimen141
-\tagwidth@=\dimen142
-\totwidth@=\dimen143
-\lineht@=\dimen144
-\@envbody=\toks19
-\multlinegap=\skip50
-\multlinetaggap=\skip51
-\mathdisplay@stack=\toks20
-LaTeX Info: Redefining \[ on input line 2859.
-LaTeX Info: Redefining \] on input line 2860.
-) (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
-Package: amssymb 2013/01/14 v3.01 AMS font symbols
- (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\symAMSa=\mathgroup4
-\symAMSb=\mathgroup5
-LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
-LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
-(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
  (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks21
+\KV@toks@=\toks14
 ) (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
  (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2019/11/07 v1.0c TeX engine tests
 ))
-\Gm@cnth=\count191
-\Gm@cntv=\count192
-\c@Gm@tempcnt=\count193
-\Gm@bindingoffset=\dimen145
-\Gm@wd@mp=\dimen146
-\Gm@odd@mp=\dimen147
-\Gm@even@mp=\dimen148
-\Gm@layoutwidth=\dimen149
-\Gm@layoutheight=\dimen150
-\Gm@layouthoffset=\dimen151
-\Gm@layoutvoffset=\dimen152
-\Gm@dimlist=\toks22
-) (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
-Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
-\c@tracingmulticols=\count194
-\mult@box=\box47
-\multicol@leftmargin=\dimen153
-\c@unbalance=\count195
-\c@collectmore=\count196
-\doublecol@number=\count197
-\multicoltolerance=\count198
-\multicolpretolerance=\count199
-\full@width=\dimen154
-\page@free=\dimen155
-\premulticols=\dimen156
-\postmulticols=\dimen157
-\multicolsep=\skip52
-\multicolbaselineskip=\skip53
-\partial@page=\box48
-\last@line=\box49
-\maxbalancingoverflow=\dimen158
-\mult@rightbox=\box50
-\mult@grightbox=\box51
-\mult@gfirstbox=\box52
-\mult@firstbox=\box53
-\@tempa=\box54
-\@tempa=\box55
-\@tempa=\box56
-\@tempa=\box57
-\@tempa=\box58
-\@tempa=\box59
-\@tempa=\box60
-\@tempa=\box61
-\@tempa=\box62
-\@tempa=\box63
-\@tempa=\box64
-\@tempa=\box65
-\@tempa=\box66
-\@tempa=\box67
-\@tempa=\box68
-\@tempa=\box69
-\@tempa=\box70
-\@tempa=\box71
-\@tempa=\box72
-\@tempa=\box73
-\@tempa=\box74
-\@tempa=\box75
-\@tempa=\box76
-\@tempa=\box77
-\@tempa=\box78
-\@tempa=\box79
-\@tempa=\box80
-\@tempa=\box81
-\@tempa=\box82
-\@tempa=\box83
-\@tempa=\box84
-\@tempa=\box85
-\@tempa=\box86
-\@tempa=\box87
-\@tempa=\box88
-\@tempa=\box89
-\@tempa=\box90
-\c@minrows=\count266
-\c@columnbadness=\count267
-\c@finalcolumnbadness=\count268
-\last@try=\dimen159
-\multicolovershoot=\dimen160
-\multicolundershoot=\dimen161
-\mult@nat@firstbox=\box91
-\colbreak@box=\box92
-\mc@col@check@num=\count269
-) (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footers
-\f@nch@headwidth=\skip54
-\f@nch@O@elh=\skip55
-\f@nch@O@erh=\skip56
-\f@nch@O@olh=\skip57
-\f@nch@O@orh=\skip58
-\f@nch@O@elf=\skip59
-\f@nch@O@erf=\skip60
-\f@nch@O@olf=\skip61
-\f@nch@O@orf=\skip62
-) (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
-Package: titlesec 2019/10/16 v2.13 Sectioning titles
-\ttl@box=\box93
-\beforetitleunit=\skip63
-\aftertitleunit=\skip64
-\ttl@plus=\dimen162
-\ttl@minus=\dimen163
-\ttl@toksa=\toks23
-\titlewidth=\dimen164
-\titlewidthlast=\dimen165
-\titlewidthfirst=\dimen166
-) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
- (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
- (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
-Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
-) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
-File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
-)
-Package graphics Info: Driver file: pdftex.def on input line 105.
- (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
-))
-\Gin@req@height=\dimen167
-\Gin@req@width=\dimen168
-) (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
-Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
-\col@sep=\dimen169
-\ar@mcellbox=\box94
-\extrarowheight=\dimen170
-\NC@list=\toks24
-\extratabsurround=\skip65
-\backup@length=\skip66
-\ar@cellbox=\box95
+\Gm@cnth=\count175
+\Gm@cntv=\count176
+\c@Gm@tempcnt=\count177
+\Gm@bindingoffset=\dimen135
+\Gm@wd@mp=\dimen136
+\Gm@odd@mp=\dimen137
+\Gm@even@mp=\dimen138
+\Gm@layoutwidth=\dimen139
+\Gm@layoutheight=\dimen140
+\Gm@layouthoffset=\dimen141
+\Gm@layoutvoffset=\dimen142
+\Gm@dimlist=\toks15
+) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
 ) (/usr/share/texlive/texmf-dist/tex/latex/musixtex/musixtex.sty (/usr/share/texlive/texmf-dist/tex/generic/musixtex/musixtex.tex
 MusiXTeX(c) 1.29 <2018-08-04>
-\n@i=\count270
-\n@ii=\count271
-\n@iii=\count272
-\n@iv=\count273
-\n@v=\count274
-\n@vi=\count275
-\n@vii=\count276
-\n@viii=\count277
-\count@=\count278
-\toks@box=\box96
-\w@rkbox=\box97
-\n@otebox=\box98
-\y@=\dimen171
-\y@i=\dimen172
-\y@ii=\dimen173
-\y@iii=\dimen174
-\y@iv=\dimen175
-\y@v=\dimen176
-\group@no=\count279
-\interinstrument=\dimen177
-\N@s=\count280
-\s@Y=\dimen178
-\lin@pos=\dimen179
-\meet@minus@n@iv=\count281
-\interbeam=\dimen180
-\b@amthick=\dimen181
-\Interligne=\dimen182
-\Internote=\dimen183
-\ch@box=\box99
-\musicsize=\count282
-\qd@skip=\dimen184
-\qn@width=\dimen185
-\wn@width=\dimen186
-\txt@ff=\skip67
-\s@indent=\skip68
-\big@spc=\skip69
-\lthick=\dimen187
-\afterruleskip=\skip70
-\staffbotmarg=\dimen188
-\stafftopmarg=\dimen189
-\line@width=\dimen190
-\interportee=\dimen191
-\noport@@=\count283
-\noinstrum@nt=\count284
-\altportee=\dimen192
-\systemheight=\dimen193
-\altplancher=\dimen194
-\instrum@in@group=\skip71
-\boxitsep=\skip72
-\barsinpi@c@=\count285
-\barno=\count286
-\startbarno=\count287
-\sign@skip=\dimen195
-\maxsign@skip=\dimen196
-\x@skip=\dimen197
-\n@skip=\dimen198
-\beforeruleskip=\skip73
-\widthtyp@=\count288
-\lastbarno=\count289
-\cut@v=\skip74
-\init@volta@pos=\skip75
-\volta@startcor=\skip76
-\volta@endcor=\skip77
-\writ@volta@box=\box100
-\barsinlin@=\count290
-\maxbarsinlin@=\count291
-\lastbarpos=\skip78
-\ut@ref=\count292
-\meterskip=\skip79
-\t@c=\toks25
-\clef@skip=\skip80
-\noteskip=\dimen199
-\transpose=\count293
-\normaltranspose=\count294
-\locx@skip=\dimen256
-\elemskip=\dimen257
-\@l@mskip=\dimen258
-\inh@alt=\count295
-\st@bot=\dimen259
-\st@top=\dimen260
-\stem@skip=\dimen261
-\s@lope=\dimen262
-\y@vi=\dimen263
-\lift@rest=\dimen264
-\accshift=\skip81
-\@icresc=\skip82
-\pdl@pos=\dimen265
-\bigwedgebox=\box101
-\@itrillei=\skip83
-\@itrilleii=\skip84
-\@itrilleiii=\skip85
-\@itrilleiv=\skip86
-\@itrillev=\skip87
-\@itrillevi=\skip88
-\tr@number=\count296
-\tr@nspose=\count297
-\o@swz=\toks26
-\o@number=\count298
-\y@vii=\dimen266
-\y@viii=\dimen267
-\y@ix=\dimen268
-\tuptxtb@x=\box102
-\notes@open=\count299
-\k@ii=\skip89
-\i@ni=\dimen269
-\b@xi=\dimen270
-\b@zi=\dimen271
-\c@xi=\dimen272
-\c@zi=\skip90
-\d@xi=\dimen273
-\d@zi=\skip91
-\e@xi=\dimen274
-\e@zi=\skip92
-\b@pi=\count300
-\b@ni=\count301
-\n@pi=\count302
-\a@si=\count303
-\o@si=\count304
-\a@ci=\toks27
-\o@ci=\toks28
-\m@ti=\toks29
-\k@iii=\skip93
-\i@nii=\dimen275
-\b@xii=\dimen276
-\b@zii=\dimen277
-\c@xii=\dimen278
-\c@zii=\skip94
-\d@xii=\dimen279
-\d@zii=\skip95
-\e@xii=\dimen280
-\e@zii=\skip96
-\b@pii=\count305
-\b@nii=\count306
-\n@pii=\count307
-\a@sii=\count308
-\o@sii=\count309
-\a@cii=\toks30
-\o@cii=\toks31
-\m@tii=\toks32
-\k@iiii=\skip97
-\i@niii=\dimen281
-\b@xiii=\dimen282
-\b@ziii=\dimen283
-\c@xiii=\dimen284
-\c@ziii=\skip98
-\d@xiii=\dimen285
-\d@ziii=\skip99
-\e@xiii=\dimen286
-\e@ziii=\skip100
-\b@piii=\count310
-\b@niii=\count311
-\n@piii=\count312
-\a@siii=\count313
-\o@siii=\count314
-\a@ciii=\toks33
-\o@ciii=\toks34
-\m@tiii=\toks35
-\k@iiv=\skip101
-\i@niv=\dimen287
-\b@xiv=\dimen288
-\b@ziv=\dimen289
-\c@xiv=\dimen290
-\c@ziv=\skip102
-\d@xiv=\dimen291
-\d@ziv=\skip103
-\e@xiv=\dimen292
-\e@ziv=\skip104
-\b@piv=\count315
-\b@niv=\count316
-\n@piv=\count317
-\a@siv=\count318
-\o@siv=\count319
-\a@civ=\toks36
-\o@civ=\toks37
-\m@tiv=\toks38
-\k@iv=\skip105
-\i@nv=\dimen293
-\b@xv=\dimen294
-\b@zv=\dimen295
-\c@xv=\dimen296
-\c@zv=\skip106
-\d@xv=\dimen297
-\d@zv=\skip107
-\e@xv=\dimen298
-\e@zv=\skip108
-\b@pv=\count320
-\b@nv=\count321
-\n@pv=\count322
-\a@sv=\count323
-\o@sv=\count324
-\a@cv=\toks39
-\o@cv=\toks40
-\m@tv=\toks41
-\k@ivi=\skip109
-\i@nvi=\dimen299
-\b@xvi=\dimen300
-\b@zvi=\dimen301
-\c@xvi=\dimen302
-\c@zvi=\skip110
-\d@xvi=\dimen303
-\d@zvi=\skip111
-\e@xvi=\dimen304
-\e@zvi=\skip112
-\b@pvi=\count325
-\b@nvi=\count326
-\n@pvi=\count327
-\a@svi=\count328
-\o@svi=\count329
-\a@cvi=\toks42
-\o@cvi=\toks43
-\m@tvi=\toks44
+\n@i=\count178
+\n@ii=\count179
+\n@iii=\count180
+\n@iv=\count181
+\n@v=\count182
+\n@vi=\count183
+\n@vii=\count184
+\n@viii=\count185
+\count@=\count186
+\toks@box=\box45
+\w@rkbox=\box46
+\n@otebox=\box47
+\y@=\dimen143
+\y@i=\dimen144
+\y@ii=\dimen145
+\y@iii=\dimen146
+\y@iv=\dimen147
+\y@v=\dimen148
+\group@no=\count187
+\interinstrument=\dimen149
+\N@s=\count188
+\s@Y=\dimen150
+\lin@pos=\dimen151
+\meet@minus@n@iv=\count189
+\interbeam=\dimen152
+\b@amthick=\dimen153
+\Interligne=\dimen154
+\Internote=\dimen155
+\ch@box=\box48
+\musicsize=\count190
+\qd@skip=\dimen156
+\qn@width=\dimen157
+\wn@width=\dimen158
+\txt@ff=\skip49
+\s@indent=\skip50
+\big@spc=\skip51
+\lthick=\dimen159
+\afterruleskip=\skip52
+\staffbotmarg=\dimen160
+\stafftopmarg=\dimen161
+\line@width=\dimen162
+\interportee=\dimen163
+\noport@@=\count191
+\noinstrum@nt=\count192
+\altportee=\dimen164
+\systemheight=\dimen165
+\altplancher=\dimen166
+\instrum@in@group=\skip53
+\boxitsep=\skip54
+\barsinpi@c@=\count193
+\barno=\count194
+\startbarno=\count195
+\sign@skip=\dimen167
+\maxsign@skip=\dimen168
+\x@skip=\dimen169
+\n@skip=\dimen170
+\beforeruleskip=\skip55
+\widthtyp@=\count196
+\lastbarno=\count197
+\cut@v=\skip56
+\init@volta@pos=\skip57
+\volta@startcor=\skip58
+\volta@endcor=\skip59
+\writ@volta@box=\box49
+\barsinlin@=\count198
+\maxbarsinlin@=\count199
+\lastbarpos=\skip60
+\ut@ref=\count266
+\meterskip=\skip61
+\t@c=\toks18
+\clef@skip=\skip62
+\noteskip=\dimen171
+\transpose=\count267
+\normaltranspose=\count268
+\locx@skip=\dimen172
+\elemskip=\dimen173
+\@l@mskip=\dimen174
+\inh@alt=\count269
+\st@bot=\dimen175
+\st@top=\dimen176
+\stem@skip=\dimen177
+\s@lope=\dimen178
+\y@vi=\dimen179
+\lift@rest=\dimen180
+\accshift=\skip63
+\@icresc=\skip64
+\pdl@pos=\dimen181
+\bigwedgebox=\box50
+\@itrillei=\skip65
+\@itrilleii=\skip66
+\@itrilleiii=\skip67
+\@itrilleiv=\skip68
+\@itrillev=\skip69
+\@itrillevi=\skip70
+\tr@number=\count270
+\tr@nspose=\count271
+\o@swz=\toks19
+\o@number=\count272
+\y@vii=\dimen182
+\y@viii=\dimen183
+\y@ix=\dimen184
+\tuptxtb@x=\box51
+\notes@open=\count273
+\k@ii=\skip71
+\i@ni=\dimen185
+\b@xi=\dimen186
+\b@zi=\dimen187
+\c@xi=\dimen188
+\c@zi=\skip72
+\d@xi=\dimen189
+\d@zi=\skip73
+\e@xi=\dimen190
+\e@zi=\skip74
+\b@pi=\count274
+\b@ni=\count275
+\n@pi=\count276
+\a@si=\count277
+\o@si=\count278
+\a@ci=\toks20
+\o@ci=\toks21
+\m@ti=\toks22
+\k@iii=\skip75
+\i@nii=\dimen191
+\b@xii=\dimen192
+\b@zii=\dimen193
+\c@xii=\dimen194
+\c@zii=\skip76
+\d@xii=\dimen195
+\d@zii=\skip77
+\e@xii=\dimen196
+\e@zii=\skip78
+\b@pii=\count279
+\b@nii=\count280
+\n@pii=\count281
+\a@sii=\count282
+\o@sii=\count283
+\a@cii=\toks23
+\o@cii=\toks24
+\m@tii=\toks25
+\k@iiii=\skip79
+\i@niii=\dimen197
+\b@xiii=\dimen198
+\b@ziii=\dimen199
+\c@xiii=\dimen256
+\c@ziii=\skip80
+\d@xiii=\dimen257
+\d@ziii=\skip81
+\e@xiii=\dimen258
+\e@ziii=\skip82
+\b@piii=\count284
+\b@niii=\count285
+\n@piii=\count286
+\a@siii=\count287
+\o@siii=\count288
+\a@ciii=\toks26
+\o@ciii=\toks27
+\m@tiii=\toks28
+\k@iiv=\skip83
+\i@niv=\dimen259
+\b@xiv=\dimen260
+\b@ziv=\dimen261
+\c@xiv=\dimen262
+\c@ziv=\skip84
+\d@xiv=\dimen263
+\d@ziv=\skip85
+\e@xiv=\dimen264
+\e@ziv=\skip86
+\b@piv=\count289
+\b@niv=\count290
+\n@piv=\count291
+\a@siv=\count292
+\o@siv=\count293
+\a@civ=\toks29
+\o@civ=\toks30
+\m@tiv=\toks31
+\k@iv=\skip87
+\i@nv=\dimen265
+\b@xv=\dimen266
+\b@zv=\dimen267
+\c@xv=\dimen268
+\c@zv=\skip88
+\d@xv=\dimen269
+\d@zv=\skip89
+\e@xv=\dimen270
+\e@zv=\skip90
+\b@pv=\count294
+\b@nv=\count295
+\n@pv=\count296
+\a@sv=\count297
+\o@sv=\count298
+\a@cv=\toks32
+\o@cv=\toks33
+\m@tv=\toks34
+\k@ivi=\skip91
+\i@nvi=\dimen271
+\b@xvi=\dimen272
+\b@zvi=\dimen273
+\c@xvi=\dimen274
+\c@zvi=\skip92
+\d@xvi=\dimen275
+\d@zvi=\skip93
+\e@xvi=\dimen276
+\e@zvi=\skip94
+\b@pvi=\count299
+\b@nvi=\count300
+\n@pvi=\count301
+\a@svi=\count302
+\o@svi=\count303
+\a@cvi=\toks35
+\o@cvi=\toks36
+\m@tvi=\toks37
 maxinstruments=6
-\f@xi=\dimen305
-\f@zi=\skip113
-\f@xii=\dimen306
-\f@zii=\skip114
-\f@xiii=\dimen307
-\f@ziii=\skip115
-\f@xiv=\dimen308
-\f@ziv=\skip116
-\f@xv=\dimen309
-\f@zv=\skip117
-\f@xvi=\dimen310
-\f@zvi=\skip118
+\f@xi=\dimen277
+\f@zi=\skip95
+\f@xii=\dimen278
+\f@zii=\skip96
+\f@xiii=\dimen279
+\f@ziii=\skip97
+\f@xiv=\dimen280
+\f@ziv=\skip98
+\f@xv=\dimen281
+\f@zv=\skip99
+\f@xvi=\dimen282
+\f@zvi=\skip100
  max128beams=6
-\g@bi=\skip119
-\g@hi=\skip120
-\g@bii=\skip121
-\g@hii=\skip122
-\g@biii=\skip123
-\g@hiii=\skip124
+\g@bi=\skip101
+\g@hi=\skip102
+\g@bii=\skip103
+\g@hii=\skip104
+\g@biii=\skip105
+\g@hiii=\skip106
  maxgroups=3
-\s@xi=\dimen311
-\s@si=\toks45
-\s@Yi=\dimen312
-\s@ai=\skip125
-\s@yi=\count330
-\s@Ni=\count331
-\s@zi=\count332
-\s@di=\toks46
-\s@xii=\dimen313
-\s@sii=\toks47
-\s@Yii=\dimen314
-\s@aii=\skip126
-\s@yii=\count333
-\s@Nii=\count334
-\s@zii=\count335
-\s@dii=\toks48
-\s@xiii=\dimen315
-\s@siii=\toks49
-\s@Yiii=\dimen316
-\s@aiii=\skip127
-\s@yiii=\count336
-\s@Niii=\count337
-\s@ziii=\count338
-\s@diii=\toks50
-\s@xiv=\dimen317
-\s@siv=\toks51
-\s@Yiv=\dimen318
-\s@aiv=\skip128
-\s@yiv=\count339
-\s@Niv=\count340
-\s@ziv=\count341
-\s@div=\toks52
-\s@xv=\dimen319
-\s@sv=\toks53
-\s@Yv=\dimen320
-\s@av=\skip129
-\s@yv=\count342
-\s@Nv=\count343
-\s@zv=\count344
-\s@dv=\toks54
-\s@xvi=\dimen321
-\s@svi=\toks55
-\s@Yvi=\dimen322
-\s@avi=\skip130
-\s@yvi=\count345
-\s@Nvi=\count346
-\s@zvi=\count347
-\s@dvi=\toks56
+\s@xi=\dimen283
+\s@si=\toks38
+\s@Yi=\dimen284
+\s@ai=\skip107
+\s@yi=\count304
+\s@Ni=\count305
+\s@zi=\count306
+\s@di=\toks39
+\s@xii=\dimen285
+\s@sii=\toks40
+\s@Yii=\dimen286
+\s@aii=\skip108
+\s@yii=\count307
+\s@Nii=\count308
+\s@zii=\count309
+\s@dii=\toks41
+\s@xiii=\dimen287
+\s@siii=\toks42
+\s@Yiii=\dimen288
+\s@aiii=\skip109
+\s@yiii=\count310
+\s@Niii=\count311
+\s@ziii=\count312
+\s@diii=\toks43
+\s@xiv=\dimen289
+\s@siv=\toks44
+\s@Yiv=\dimen290
+\s@aiv=\skip110
+\s@yiv=\count313
+\s@Niv=\count314
+\s@ziv=\count315
+\s@div=\toks45
+\s@xv=\dimen291
+\s@sv=\toks46
+\s@Yv=\dimen292
+\s@av=\skip111
+\s@yv=\count316
+\s@Nv=\count317
+\s@zv=\count318
+\s@dv=\toks47
+\s@xvi=\dimen293
+\s@svi=\toks48
+\s@Yvi=\dimen294
+\s@avi=\skip112
+\s@yvi=\count319
+\s@Nvi=\count320
+\s@zvi=\count321
+\s@dvi=\toks49
  maxslurs=6
-\tr@xi=\skip131
-\tr@swi=\toks57
-\tr@yi=\skip132
-\tr@xii=\skip133
-\tr@swii=\toks58
-\tr@yii=\skip134
-\tr@xiii=\skip135
-\tr@swiii=\toks59
-\tr@yiii=\skip136
-\tr@xiv=\skip137
-\tr@swiv=\toks60
-\tr@yiv=\skip138
-\tr@xv=\skip139
-\tr@swv=\toks61
-\tr@yv=\skip140
-\tr@xvi=\skip141
-\tr@swvi=\toks62
-\tr@yvi=\skip142
+\tr@xi=\skip113
+\tr@swi=\toks50
+\tr@yi=\skip114
+\tr@xii=\skip115
+\tr@swii=\toks51
+\tr@yii=\skip116
+\tr@xiii=\skip117
+\tr@swiii=\toks52
+\tr@yiii=\skip118
+\tr@xiv=\skip119
+\tr@swiv=\toks53
+\tr@yiv=\skip120
+\tr@xv=\skip121
+\tr@swv=\toks54
+\tr@yv=\skip122
+\tr@xvi=\skip123
+\tr@swvi=\toks55
+\tr@yvi=\skip124
  maxtrills=6
-\o@xi=\skip143
-\o@yi=\skip144
-\o@swi=\toks63
-\o@xii=\skip145
-\o@yii=\skip146
-\o@swii=\toks64
-\o@xiii=\skip147
-\o@yiii=\skip148
-\o@swiii=\toks65
-\o@xiv=\skip149
-\o@yiv=\skip150
-\o@swiv=\toks66
-\o@xv=\skip151
-\o@yv=\skip152
-\o@swv=\toks67
-\o@xvi=\skip153
-\o@yvi=\skip154
-\o@swvi=\toks68
+\o@xi=\skip125
+\o@yi=\skip126
+\o@swi=\toks56
+\o@xii=\skip127
+\o@yii=\skip128
+\o@swii=\toks57
+\o@xiii=\skip129
+\o@yiii=\skip130
+\o@swiii=\toks58
+\o@xiv=\skip131
+\o@yiv=\skip132
+\o@swiv=\toks59
+\o@xv=\skip133
+\o@yv=\skip134
+\o@swv=\toks60
+\o@xvi=\skip135
+\o@yvi=\skip136
+\o@swvi=\toks61
  maxoctlines=6
 \outmux=\write3
-\mulooseness=\count348
-\linegoal=\count349
-\l@eftrightbox=\box103
-\stringraise=\count350
-\inmux=\read3
+\mulooseness=\count322
+\linegoal=\count323
+\l@eftrightbox=\box52
+\stringraise=\count324
+\inmux=\read2
 ) (/usr/share/texlive/texmf-dist/tex/latex/musixtex/musixltx.tex
 MusiXLaTeX T.125 <8 April 2017>
 )) (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count351
-\l__pdf_internal_box=\box104
-)
-No file Main.aux.
+\l__kernel_color_stack_int=\count325
+\l__pdf_internal_box=\box53
+) (./Main.aux)
 \openout1 = `Main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 22.
-LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 22.
-(/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmr.fd
-File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-)
-LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -819,20 +406,20 @@ LaTeX Font Info:    ... okay on input line 22.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(28.45274pt, 540.60239pt, 28.45274pt)
-* v-part:(T,H,B)=(36.98866pt, 706.65154pt, 101.40665pt)
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(142.26378pt, 645.87756pt, 56.9055pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=540.60239pt
-* \textheight=706.65154pt
-* \oddsidemargin=-43.81725pt
-* \evensidemargin=-43.81725pt
-* \topmargin=-72.28133pt
+* \textwidth=483.69687pt
+* \textheight=645.87756pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=32.99379pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=12.0pt
 * \footskip=30.0pt
-* \marginparwidth=35.0pt
+* \marginparwidth=44.0pt
 * \marginparsep=10.0pt
 * \columnsep=10.0pt
 * \skip\footins=10.8pt plus 4.0pt minus 2.0pt
@@ -845,43 +432,24 @@ LaTeX Font Info:    ... okay on input line 22.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count352
-\scratchdimen=\dimen323
-\scratchbox=\box105
-\nofMPsegments=\count353
-\nofMParguments=\count354
-\everyMPshowfont=\toks69
-\MPscratchCnt=\count355
-\MPscratchDim=\dimen324
-\MPnumerator=\count356
-\makeMPintoPDFobject=\count357
-\everyMPtoPDFconversion=\toks70
-) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
-Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
- (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
-))
 \openout3 = `Main.mx1'.
 
- (./music.tex bar 1) [1
+bar 1 bar 2 bar 3 bar 4 bar 5 bar 6 bar 1 bar 2 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./Main.aux) ) 
 Here is how much of TeX's memory you used:
- 6630 strings out of 481239
- 74160 string characters out of 5920377
- 338862 words of memory out of 5000000
- 21764 multiletter control sequences out of 15000+600000
- 603326 words of font info for 169 fonts, out of 8000000 for 9000
+ 2943 strings out of 481239
+ 29627 string characters out of 5920377
+ 276309 words of memory out of 5000000
+ 18177 multiletter control sequences out of 15000+600000
+ 601654 words of font info for 167 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,4n,45p,281b,223s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/musixtex-fonts/musix20.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/musixtex-fonts/musixspx.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on Main.pdf (1 page, 41771 bytes).
+ 30i,4n,34p,209b,292s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/musixtex-fonts/musix20.pfb>
+Output written on Main.pdf (1 page, 32706 bytes).
 PDF statistics:
- 29 PDF objects out of 1000 (max. 8388607)
- 20 compressed objects within 1 object stream
+ 24 PDF objects out of 1000 (max. 8388607)
+ 16 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
